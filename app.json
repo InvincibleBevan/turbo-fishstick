@@ -1,0 +1,23 @@
+
+{
+    "name": "session name",
+    "description": "Web Session Generator",
+    "logo": "https://files.catbox.moe/jzl4bu.jpg",
+    "repository": "https://github.com/Invinciblebevan/turbo-fishstick",
+    "keywords": ["Malvin-Tech"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "Just Leave This Blank",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
