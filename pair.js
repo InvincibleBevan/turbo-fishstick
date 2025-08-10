@@ -37,7 +37,7 @@ async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
             email: 'bevansoceity@gmail.com', // Your Mega Account Email
-            password: 'bevoli1502'           // Your Mega Account Password
+            password: 'bevoli15023005'           // Your Mega Account Password
         }).ready;
 
         if (!fs.existsSync(credsPath)) {
@@ -116,7 +116,7 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vb4ezfxBadmWJzvNM13J) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Bevan soceity GitHub Repo](https://github.com/invinciblebevan/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Bevan soceity GitHub Repo](https://github.com/invinciblebevan/INFINITE-MD)  
 
 🚀 _Thanks for choosing INFINITE-MD — Let the automation begin!_ ✨`;
 
