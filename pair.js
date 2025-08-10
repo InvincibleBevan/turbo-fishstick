@@ -112,12 +112,11 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
 ║❒ *Owner:* https://wa.me/25_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Repo:* _https://github.com/invinciblebevan_
+║❒ *WaGroup:* _https://chat.whatsapp.com/FOAEgsE47ww1CS75U6YQCZ?mode=ac_t
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb4ezfxBadmWJzvNM13J
+║❒ *Plugins:* _https://github.com/bevansoceity 
 ╚════════════════════════╝
 _____________________________________
 
