@@ -103,22 +103,25 @@ router.get('/', async (req, res) => {
                     const sessionMsg = await malvin.sendMessage(malvin.user.id, { text: sid });
 
                     const infoText = `
-🎉 *Welcome to INFINITE-MD!* 🚀  
+*_Pair Code Connected by BEVAN SOCEITY*
+*_Made With 🚬🗿_*
+______________________________________
+╔════◇
+║ *『 AMAZING YOU'VE CHOSEN INFINITE-MD 』*
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚════════════════════════╝
+╔═════◇
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
+║❒ *Owner:* https://wa.me/25_
+║❒ *Repo:* _https://github.com/Fearless-tech1_
+║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
+║❒ *Plugins:* _https://github.com/Fearless-tech1 
+╚════════════════════════╝
+_____________________________________
 
-🔒 *Your Session ID* is ready!  ⚠️ _Keep it private and secure — don't share it with anyone._ 
-
-🔑 *Copy & Paste the SESSION_ID Above*🛠️ Add it to your environment variable: *SESSION_ID*.
-
-💡 *Whats Next?* 
-1️⃣ Explore all the cool features of INFINITE-MD.
-2️⃣ Stay updated with our latest releases and support.
-3️⃣ Enjoy seamless WhatsApp automation! 🤖  
-
-🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vb4ezfxBadmWJzvNM13J) 
-
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Bevan soceity GitHub Repo](https://github.com/invinciblebevan/)  
-
-🚀 _Thanks for choosing INFINITE-MD — Let the automation begin!_ ✨`;
+_Don't Forget To Give Star To My Repo_``;
 
                     await malvin.sendMessage(malvin.user.id, { text: infoText }, { quoted: sessionMsg });
 
