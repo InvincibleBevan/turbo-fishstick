@@ -112,7 +112,7 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* https://wa.me/25_
+║❒ *Owner:* https://wa.me/254797827405_
 ║❒ *Repo:* _https://github.com/invinciblebevan_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/FOAEgsE47ww1CS75U6YQCZ?mode=ac_t
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb4ezfxBadmWJzvNM13J
